@@ -18,13 +18,13 @@ This is a static web page that will be hosted in aws
 ```yum install git -y```
 
 ### Clone the project GitHub repository to the current directory
-```git clone github_url_of_this_project```
+```git clone [github_url_of_this_project](https://github.com/Amretasre002762670/host-static-web-page-aws.git)```
 
 ### Copy all files, including hidden ones, from the cloned repository to the Apache web root
-```cp -R host-a-static-website-on-aws/. /var/www/html/```
+```cp -R host-static-web-page-aws/. /var/www/html/```
 
 ### Remove the cloned repository directory to clean up unnecessary files
-```rm -rf host-a-static-website-on-aws```
+```rm -rf host-static-web-page-aws```
 
 ### Enable the Apache HTTP Server to start automatically at system boot
 ```systemctl enable httpd``` 
