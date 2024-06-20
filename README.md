@@ -100,11 +100,6 @@ Follow these steps to set up the project:
 7. **Set Up Notifications**
    - Configure Amazon SNS to receive notifications about Auto Scaling Group activities.
 
-## VPC Architecture
-
-![VPC](https://github.com/Amretasre002762670/host-static-web-page-aws/assets/113134320/c4185768-84d2-4131-9c00-75fa5c9448eb)
-     
-
 ## Conclusion
 
 Following these steps, you will have a fully functional, scalable, and secure static website hosted on AWS. This setup ensures high availability, fault tolerance, and ease of management.
